@@ -1,4 +1,4 @@
-# jobfindr
+# weather-app
 
 ## Project setup
 ```
